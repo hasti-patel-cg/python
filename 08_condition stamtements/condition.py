@@ -1,3 +1,4 @@
+'''
 num=20
 if num>10:
     print("Positive number")
@@ -137,6 +138,7 @@ age=18
 has_id=True 
 if age>=18 and has_id:
     print("Allowed")
+
 first_number=int(input("Enter your first number: "))
 second_number=int(input("Enter your second number: "))
 if first_number>10 and second_number>10:
@@ -144,5 +146,14 @@ if first_number>10 and second_number>10:
 num=int(input("Enter a number: "))
 if num<0 or num>100:
     print("Out of range")   
-
+'''
     
+has_id=input("enter the value in (true or false):").strip().lower()
+true=True
+false=False
+if has_id=="true":
+    print("wellcome")
+elif has_id=="false":
+    print("please bring your id!!")
+else :
+    print("Enter the valid value")    
