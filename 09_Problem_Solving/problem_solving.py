@@ -114,10 +114,103 @@
 #     print("Can vote") 
 
 #que=11
-year=int(input("enter the year: "))
-if year%400==0 or (year%4==0 and year%100!=0):
-    print(f"{year} Leap year") 
-else:
-    print(f"{year} not leep year")  
+# year=int(input("enter the year: "))
+# if year%400==0 or (year%4==0 and year%100!=0):
+#     print(f"{year} Leap year") 
+# else:
+#     print(f"{year} not leep year")  
+
+#que=12
+
+# character=input("enter the value: ")
+# if  'A' <= character <= 'Z':
+#     print("Uppercase alphabet")
+# elif 'a'<= character <= 'z':
+#     print("Lowercase alphabet")    
+# elif '0'<= character <= '9':
+#     print("Digit")
+# else:
+#     print("Special character")
+
+#que=13
+
+#que=14
+
+# cost_price=float(input("enter the cost price: "))
+# selling_price=float(input("enter the selling price: "))
+
+
+# if selling_price > cost_price:
+#     print("profit")
+# elif selling_price < cost_price:
+#     print("loss")
+# else:
+#     print("No profit and no loss")
+                
+#que=15
+
+
+# cost_price=float(input("enter the cost price: "))
+# selling_price=float(input("enter the selling price: "))
+# profit=selling_price > cost_price
+# loss=selling_price < cost_price
+
+# if profit :
+#     profit_percentage= profit/cost_price*100
+#     print("profit percentage is", profit_percentage,"%")
+# elif loss :
+#     loss_percentage= loss/cost_price*100
+#     print("loss percentage is ", loss_percentage,"%")
+# else:
+#     print("No profit and no loss")
+
+#que=16
+
+# bill=float(input(("enter youe electricity bill units:")))
+
+#que=18
+
+# tem=float(input("enter the temperature: "))
+
+# if tem < 0:
+#     print("Freezing")
+# elif 0<=tem<=15:
+#     print("Very Cold") 
+# elif 16<=tem<=25:
+#     print("Cold")
+# elif 26<=tem<=35:
+#     print("Normal")
+# else:
+#     print("Hot")       
+     
+#que=19
+# num=int(input("enter the number: "))
+
+# if num < 0:
+#     print(f"{num} is Negative ")
+# elif 0<=num<=10:
+#     print(f"{num} is between 0 and 10") 
+# elif 11<=num<=50:
+#     print(f"{num} is between 11 and 50")
+# elif 51<=num<=100:
+#     print(f"{num} is between 51 and 100")
+# else:
+#     print(f"{num} is above 100") 
+
+#que=20
+
+# lenth1=int(input("enter the triangle lenth1: "))
+# lenth2=int(input("enter the triangle lenth2: "))
+# lenth3=int(input("enter the triangle lenth3: "))
+
+# if lenth1+ lenth2 > lenth3 and lenth1+ lenth3 > lenth2 and lenth2+ lenth3 > lenth1:
+#     print("Valid triangle") 
+# else:
+#     print(" Invalid triangle")
+
+#que=21
+
+
+                
 
 
