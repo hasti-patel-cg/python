@@ -120,4 +120,53 @@
 # print("sum of all odd number:",sum)
 
 #que=19
+# a=int(input("enter the number="))
+# for i in range(1,11):
+#     print(a,"X",i,"=",a*i)
 
+#que=20
+# n=int(input("enter the value="))
+# for i in range(1,n+1):
+#     print( i,"x",end=" ")
+
+#que=21
+
+
+
+#que=26
+
+# for row in range(3):
+#     for column in range(4):
+#         print("*",end="")
+#     print()   
+
+#que=27
+
+# for row in range(4):
+#     for column in range(5):
+#         print("*",end="")
+#     print()   
+
+#que=28
+
+# for i in range(5):
+#     for j in range(i+1):
+#         print("*",end="")
+#     print()    
+
+#que=29
+
+# for i in range(1,6):
+#     for j in range(1,i+1):
+#         print(j,end="")
+#     print()  
+
+#que=30
+
+# n=int(input("enter the number="))
+
+# for i in range(1,n+1):
+#     for j in range(1,i+1):
+#         print(j,end="")
+#     print()    
+      

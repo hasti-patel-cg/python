@@ -166,7 +166,21 @@
 
 #que=16
 
-# bill=float(input(("enter youe electricity bill units:")))
+# units=float(input(("enter youe electricity bill units:")))
+
+# if units<=100:
+#     print(f"total:{units*5}")
+# elif units<=200:
+#     first_hundred=100*5
+#     next_hundred=(units-100)*7
+#     print(f"taotal:",first_hundred+next_hundred)
+# else :
+#     first_hundred=100*5
+#     next_hundred= 100*7 
+#     remaing_units=(units-200)*10
+#     print(f"taotal:",first_hundred+next_hundred+remaing_units)   
+ 
+
 
 #que=18
 
@@ -210,7 +224,117 @@
 
 #que=21
 
+# lenth1=int(input("enter the triangle lenth1: "))
+# lenth2=int(input("enter the triangle lenth2: "))
+# lenth3=int(input("enter the triangle lenth3: "))
 
+# if lenth1==lenth2 and lenth1==lenth3 and lenth2==lenth3:
+#     print(" Equilateral(all three sides equal)")
+# elif  lenth1==lenth2 or lenth1==lenth3 or lenth2==lenth3:   
+#     print("Isosceles(exactly two sides equal)")
+# else:
+#     print("Scalene (all sides different)")    
                 
+#que=22
+
+# Account_balance=float(input("enter your account balance="))
+# Withdrawal_amount=float(input("enter the amount you want to withdrawal="))
+
+# if Withdrawal_amount>0 and Withdrawal_amount%100==0 and Withdrawal_amount <= Account_balance and Account_balance - Withdrawal_amount >= 500:
+#     print("Withdrawal successful") 
+#     print("Remaining balancesful",Account_balance - Withdrawal_amount)
+# else:
+#     print("Withdrawal failed")     
+
+#que=23
+
+# Username=(input("enter youe Username ="))
+# password=(input("enter the password = "))
+
+# if Username == "" or password == "":
+#     print("Login successful")
+# else:
+#     print("Wrong password") 
+
+#que=24
+
+# amount=float(input("enter the purchase amount="))
+
+
+# if amount < 500:
+#     print("discount:0%" )
+#     print("discount amount: " ,amount*0)
+#     if amount>1000:
+#         print("discount:5%" )
+#         print("discount amount: " ,amount*0.05)
+#     elif amount>2000:
+#         print("discount:10%" )
+#         print("discount amount: " ,amount*0.10)
+#     elif amount>5000:
+#         print("discount:15%" )
+#         print("discount amount: " ,amount*0.15)
+# else:
+#     print("discount:20%" )
+#     print("discount amount: " ,amount*0.20)
+
+#que=25
+
+
+# total = 0
+# passed = True
+# marks=int(input("enter the marks="))
+
+# total = total + marks
+
+# percentage=total/5
+# for i in range(5):
+
+
+#     if marks < 35:
+#         passed = False
+
+
+
+
+# if passed:
+#     if percentage >= 90:
+#          garde="A+"
+#     elif percentage >= 80:
+#         grade = "A"
+#     elif percentage >= 70:
+#         grade = "B"
+#     elif percentage >= 60:
+#         grade = "C"
+#     elif percentage >= 50:
+#         grade = "D"
+#     else:
+#         grade = "F"
+# else:
+#     grade = "F"
+
+# print(total)
+# print(percentage)
+# print(garde)
+
+# if passed:
+#     print("PASS")
+# else:
+#     print( "FAIL")
+
+
+
+
+
+    
+
+
+ 
+                
+
+   
+
+
+
+
 
 
