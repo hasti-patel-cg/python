@@ -305,31 +305,32 @@
 
 # que=18
 
-category=input("Enter Category :")
-product=int(input("Enter product : "))
+# category=input("Enter Category :")
+# product=int(input("Enter product : "))
 
-match category:
-    case "electronics":
-        match product:
-            case 1:
-                print("Mobile")
-            case 2:
-                print("Laptop")
-            case 3:
-                print("Headphones")
-            case _:
-                print("Invalid choice")
+# match category:
+#     case "electronics":
+#         match product:
+#             case 1:
+#                 print("Mobile")
+#             case 2:
+#                 print("Laptop")
+#             case 3:
+#                 print("Headphones")
+#             case _:
+#                 print("Invalid choice")
 
-    case "clothing":
-        match product:
-            case 1:
-                print("Shirt")
-            case 2:
-                print("Jeans")
-            case 3:
-                print("Shoes")
-            case _:
-                print("invalid choice")
+#     case "clothing":
+#         match product:
+#             case 1:
+#                 print("Shirt")
+#             case 2:
+#                 print("Jeans")
+#             case 3:
+#                 print("Shoes")
+#             case _:
+#                 print("invalid choice")
 
-    case _:
-        print("Invalid choice")
+#     case _:
+#         print("Invalid choice")
+
