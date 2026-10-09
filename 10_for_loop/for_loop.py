@@ -130,8 +130,43 @@
 #     print( i,"x",end=" ")
 
 #que=21
+# str=input("enter the string :")
+# for i in str:
+#     print(i)
 
+# que=22
 
+# str=input("enter the string :")
+# for i in str:
+#     print(i,end="")
+
+# que=23
+
+# str=input("enter the string :")
+# lenth=len(str)
+# print(lenth)
+
+# str=input("enter the string :")
+# count=0
+# for i in str:
+#     count+=1
+# print(count)
+    
+# que=24    
+# str=input("enter the string :")
+# count=0
+# for i in str:
+#     if i=="a":
+#         count+=1
+# print(count)
+    
+# que=25
+# str=input("enter the string :")
+# count=0
+# for i in str:
+#     if "A"<=i<="Z":
+#         count+=1
+# print(count)
 
 #que=26
 
@@ -170,3 +205,4 @@
 #         print(j,end="")
 #     print()    
       
+

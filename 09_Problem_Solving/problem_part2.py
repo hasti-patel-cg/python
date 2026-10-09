@@ -72,7 +72,8 @@
 #     elif marks>=35:
 #         print("Pass")
 #     else:
-#         print("Fail")        
+#         print("Fail")   
+             
 
 
 # 3. Word Score Calculator
@@ -88,9 +89,28 @@
 
 # Do not use max()
    
-vowel="aeiouAEIOU"
-consonant="bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ"
-digit="1234567890"
-str=input("enter the string :").split()
+# vowel="aeiouAEIOU"
+# consonant="bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ"
+# digit="1234567890"
+# special=0
+# Vowel=0
+# cons = 0
+# Digit=0
+# str=input("enter the string :")
+# for i in str:
+#     if i in vowel:
+#         Vowel = Vowel+2
+           
+#     elif i in consonant:
+#         cons = cons + 1   
+#     elif i in digit:
+#         Digit= Digit+3
+#     else:
+#         special = special+4
+
+# print("vowel point :",Vowel) 
+# print("Consonant point :",cons)  
+# print("Digit point :",Digit)
+# print("Special character :",special)
 
 
