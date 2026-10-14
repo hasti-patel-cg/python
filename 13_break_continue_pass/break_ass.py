@@ -187,4 +187,121 @@
 
 # que=22
 
+# list=[4,8,12,16]
+# num=int(input("enter the number : "))
+
+# for i in list:
+#     if num == i:
+#         print("Found")
+#         break
+# else:
+#     print("Not Found")        
+
+# que=23
+
+# str=input("enter the string : ")
+# target=input("enter the string : ")
+# for ch in str:
+#     if ch == target:
+#         print("Character exists")
+#         break
+# else:
+#     print("Character missing")   
+
+# que=24
+
+# n = int(input("Enter a number : "))
+
+
+# for i in range(2, n):
+#     if n % i == 0:
+#         print("Not prime")
+#         break
+# else:
+#      print("Prime")
+
+# C3. Think Carefully --- Challenging
+
+#que=25
+
+# All are even
+
+# que=26
+
+# case A
+
+# A
+#  
+# C
+
+# que=27
+
+# str=input("enter the value : ")
+
+# for i in range(len(str)):
+#     ch=str[i]
+#     if str.count(ch)>=2:
+#         print(ch)
+#         break
+# else:
+#     print("No repeated character")   
+
+# Section D --- Practice Problems on pass
+# D1. Output Prediction --- Easy
+
+# que=28
+
+# 1
+# 2
+# 3
+
+# que=29
+
+# Finished
+
+# que=30
+
+# Loop ended
+
+# D2. Write a Program --- Medium
+
+# que=31
+
+# n=int(input("enter the number : "))
+# for i in range(1,n+1):
+#     if i%2==0:
+#         pass
+#     print(i)
+
+# que=32
+
+# D3. Think Carefully --- Challenging
+
+# que=33
+
+# program A
+
+# 1
+# 2
+# 3
+# 4
+
+# program B
+
+# 1
+# 2
+# 4
+
+# que=34
+
+# continue
+
+# Section E --- Mixed Challenge Questions
+
+# que=35
+
+# 1
+# 3
+
+# que=36
 
